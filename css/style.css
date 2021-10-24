@@ -2,3 +2,9 @@
     position:fixed;
     left: 10px;
 }
+@media(max-width:500px){
+    navbar{
+        position: fixed;
+        top: 10;
+    }
+}
